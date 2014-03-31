@@ -4,7 +4,7 @@
 
 *Recorded factual material commonly retained by and accepted in the scientific community to validate research findings.*
 
-[[( *orig src* )|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/scope.aspx]]
+(*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/scope.aspx]]*)
 
 ## EPSRC Policy Framework on Research Data ##
 
@@ -24,7 +24,7 @@ Seven core principles align with core RCUK principles of RD management (RDM):
  * Metadata should be recorded and made available to aid reuse.  Always link from results to supporting data, ideally using a DOI.
  * Public funds can be used to preserve and manage access to RD.  RD management and access mechanisms should be effective and efficient.
 
-[[( *orig src* )|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/principles.aspx]]
+(*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/principles.aspx]]*)
  
 ## Benefits of RD(M) ##
 
@@ -37,7 +37,7 @@ Seven core principles align with core RCUK principles of RD management (RDM):
 1. Opportunities for combining data from multiple sources
 1. Education of new researchers and the public
 
-[[( *orig src* )|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/scope.aspx]]
+(*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/scope.aspx]]*)
 
 ## Protecting Intellectual Property (IP) ##
 
@@ -48,10 +48,12 @@ EPSRC wants institutions to use the protections afforded by the FoA exceptions t
  * Institutions to align pollicy and practise with EPSRC expectations by 1 May 2012
  * Full compliance required by 1 May 2015
 
+(*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/impact.aspx]]*)
+
 ## Responsibility for costs ##
 
  * Costs relating to systems and infrastructure relating to storage and management of RD can be covered by public funds.  
  * Institutions are expected to cover costs from within received funding, using both direct and indirect streams where appropriate
  * Institutions may wish collaborate on commissioning RDM services from a third party provider
 
-[[( *orig src* |http://www.epsrc.ac.uk/about/standards/researchdata/Pages/responsibility.aspx]]
+(*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/responsibility.aspx]]*)
