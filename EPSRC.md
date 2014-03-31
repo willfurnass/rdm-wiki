@@ -16,13 +16,13 @@
 
 Seven core principles align with core RCUK principles of RD management (RDM):
 
- * Make RD available widely, freely and in a timely and responsible manner.
- * The research process should not be damaged by the release of RD.  Legal provisions are already in place for accessing publicly funded information: Freedom of Information (FoI act) and the Environmental Information Regulations (EIR).  Information must be supplied to the requestor within 20d unless certain excemptions apply (national security, law enforcement, commercial interests and/or data protection could be impacted).  Jisc have published advice on this (ref)?
- * All users of RD should acknowledge the source and abide by terms and conditions.
- * Researchers should have privileged access to their data for a limited discipline/project-specific duration to allow them to publish results.
- * RDM policies should acknowledge relevant standards and best practise and exist for all data.  Data with acknowledged long-term value should be preseved but remain accessible and usable by future researchers.
- * Metadata should be recorded and made available to aid reuse.  Always link from results to supporting data, ideally using a DOI.
- * Public funds can be used to preserve and manage access to RD.  RD management and access mechanisms should be effective and efficient.
+ * Make RD available **widely**, **freely** and in a **timely** and **responsible manner**.
+ * The **research process should not be damaged** by the release of RD.  Legal provisions are already in place for accessing publicly funded information: Freedom of Information (FoI act) and the Environmental Information Regulations (EIR).  Information must be supplied to the requestor within 20d unless certain excemptions apply (national security, law enforcement, commercial interests and/or data protection could be impacted).  Jisc have published advice on this (ref)?
+ * All users of RD should **acknowledge the source** and abide by **terms and conditions**.
+ * Researchers should have **privileged access to their data** for a limited discipline/project-specific duration to allow them to **publish results**.
+ * RDM policies should acknowledge **relevant standards** and **best practise** and exist for **all data**.  Data with acknowledged long-term value should be **preseved** but **remain accessible and usable** by future researchers.
+ * **Metadata** should be recorded and made available to aid reuse.  Always link from results to supporting data, ideally using a DOI.
+ * **Public funds** can be used to preserve and manage access to RD.  RD management and access mechanisms should be effective and efficient.
 
 (*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/principles.aspx]]*)
  
@@ -45,8 +45,8 @@ EPSRC wants institutions to use the protections afforded by the FoA exceptions t
 
 ## Time scales ##
 
- * Institutions to align pollicy and practise with EPSRC expectations by 1 May 2012
- * Full compliance required by 1 May 2015
+ * Institutions to **align pollicy and practise** with EPSRC expectations by 1 May 2012
+ * **Full compliance** required by 1 May 2015
 
 (*[[orig src|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/impact.aspx]]*)
 
