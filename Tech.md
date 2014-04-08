@@ -4,7 +4,10 @@
 
  * UK Data Archive
  * figshare
- * Dryad
+ * [[Dryad|http://datadryad.org]] - repository for data relating to scientific and medical publications
+ * [[Databib|http://databib.org]] - searchable catalog / registry / directory / bibliography of research data repositories. 
+ * Data Observation Network for Earth (DataONE)
+ * Many subject-specific archives: GenBank (gene sequence data), TreeBASE (phylogenetic trees), EMBL Nucleotide Sequence Database, Protein Data Bank, Gene Expression Omnibus, 
 
 ## Other open data repositories ##
 
