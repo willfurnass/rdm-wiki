@@ -9,5 +9,7 @@
     -   [[Data citation|https://www.rd-alliance.org/working-groups/data-citation-wg.html]]
     -   [[Metadata Standards Directory|https://www.rd-alliance.org/working-groups/metadata-standards-directory-working-group.html]]
     -   others
--   [[Digital Curation Centre|http://www.dcc.ac.uk/]], a Jisc-funded body for...
--   [[EDINA|http://edina.ac.uk/]], [[Mimas|http://mimas.ac.uk]] and the [[UK Data Archive|http://www.data-archive.ac.uk]] are data centres that provide data applications to higher education in the UK.  EDINA serves geospatial data, multimedia, bibliographic data, eBooks and repositories.
+ * [[Digital Curation Centre|http://www.dcc.ac.uk/]], a Jisc-funded body for...
+ * [[EDINA|http://edina.ac.uk/]], [[Mimas|http://mimas.ac.uk]] and the [[UK Data Archive|http://www.data-archive.ac.uk]] are data centres that provide data applications to higher education in the UK.  EDINA serves geospatial data, multimedia, bibliographic data, eBooks and repositories.
+ * [[CODATA|http://www.codata.org]] - the committee on data for science and technology
+ * [[CILIP]]|http://www.cilip.org.uk/]] - Chartered Institute of Library and Information Professionals
