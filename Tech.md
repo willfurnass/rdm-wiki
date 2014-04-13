@@ -8,7 +8,10 @@
  * Harvard [[Dataverse Network|http://thedata.org/]]
  * [[Databib|http://databib.org]] - searchable catalog / registry / directory / bibliography of research data repositories. 
  * Data Observation Network for Earth (DataONE)
- * Many subject-specific archives: GenBank (gene sequence data), TreeBASE (phylogenetic trees), EMBL Nucleotide Sequence Database, Protein Data Bank, Gene Expression Omnibus, 
+ * Economic and Social Data Service (ESDS)
+ * Archaeology Data Service (ADS)
+ * British Atmospheric Data Centre (BADC)
+ * Many other subject-specific archives: GenBank (gene sequence data), TreeBASE (phylogenetic trees), EMBL Nucleotide Sequence Database, Protein Data Bank, Gene Expression Omnibus
 
 ## RDM repository technologies ##
 
