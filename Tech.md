@@ -27,8 +27,16 @@
  * RDF
  * [[NYT Linked Open Data|http://data.nytimes.com]]
 
+## Data management plan (DMP) creation
+ 
+ * DMPTool
+
 ## Citations ##
 
  * Crossmark
  * Crossref
  * MOVE ELSEWHERE
+
+## Managing messy data ##
+
+ * [[OpenRefine|http://openrefine.org/]] (formerly Google Refine) - a "tool for working with messy data: cleaning it; transforming it from one format into another; extending it with web services; and linking it to databases like Freebase."
