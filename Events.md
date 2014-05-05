@@ -6,4 +6,4 @@
  * [[DataCite workshop|http://dataciteworkshopglasgow.eventbrite.co.uk]] (UoGlasgow, 13 June 2014)
  * Non-standard Archiving of Research Outputs Workshop (Nottingham Trent, 13 May 2014)
  * [[Research Data Management: The library’s role|http://www.cilip.org.uk/rdm2014]] (CILIP, London,20 may 2014)
-
+ * [[2nd Data Management Workshop|http://www.tr32db.uni-koeln.de/workshops/overview.php?wsID=4]], Institute of Geography, University of Cologne
