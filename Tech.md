@@ -42,3 +42,8 @@
 ## Managing messy data ##
 
  * [[OpenRefine|http://openrefine.org/]] (formerly Google Refine) - a "tool for working with messy data: cleaning it; transforming it from one format into another; extending it with web services; and linking it to databases like Freebase."
+
+## Format identification ##
+
+ * [[PRONOM|http://www.nationalarchives.gov.uk/PRONOM/Default.aspx]] - online resource of file format info, run by US National Archives
+ * [[Fido|https://github.com/openplanets/fido/]] - file format identification tool (written in Python), written by the [[Bodies-and-policies|OpenPlanets Foundation]].
