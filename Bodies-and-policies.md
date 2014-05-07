@@ -14,3 +14,4 @@
  * [[CODATA|http://www.codata.org]] - the committee on data for science and technology
  * [[CILIP]]|http://www.cilip.org.uk/]] - Chartered Institute of Library and Information Professionals
  * [[Open Knowledge Foundation|okfn.org]]
+ * [[N8|http://www.n8research.org.uk/]]: eight most research-intensive unis in the North of England (Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield and York)

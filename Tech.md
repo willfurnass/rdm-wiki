@@ -12,12 +12,14 @@
  * Archaeology Data Service (ADS)
  * British Atmospheric Data Centre (BADC)
  * Many other subject-specific archives: GenBank (gene sequence data), TreeBASE (phylogenetic trees), EMBL Nucleotide Sequence Database, Protein Data Bank, Gene Expression Omnibus
+ * [[PURR|https://purr.purdue.edu/]] from Purdue Uni in the US (recommended by [[RDM-at-the-UoS|Laurian Williamson]]
 
 ## RDM repository technologies ##
 
- * ePrints
- * CKAN (used at Lincoln)
+ * [[ePrints|http://www.eprints.org]]: open source repository software.  Powers White Rose Research Online
+ * [[CKAN|ckan.org]] (used at Lincoln)
  * DSpace
+ * [[Symplectic Elements|http://www.symplectic.co.uk]]: brings in paper metadata from external data sources such as Scopus and internal sources e.g. ePrints.  Used at the UoS
 
 ## Other open data repositories ##
 

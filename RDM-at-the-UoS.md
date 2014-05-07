@@ -7,5 +7,10 @@
    * Dr Andrew Cox (iSchool) - met with on 2014-03-31.  More interested in data management than open data.
 
 Projects
+ * Archivum: data archiving system currently being investigated.  Currently being piloted using microscopy data.
+ * N8 looking at sharing other services for economy of scale
+ * Looking at using [[Tech|ePrints]] for injesting data publications (ePrints already being used for making prose publications available via [[Tech|Symplectic Elements]] (aka myPublications)
+
+
  * [[DMSPPsych|http://www.sheffield.ac.uk/psychology/research/groups/dmsppsych]]: Research data management for the UoS Psychology dept.  Funded by the Jisc [[Managing Research Data Programme|http://www.jisc.ac.uk/whatwedo/programmes/di_researchmanagement/managingresearchdata.aspx]]
 
