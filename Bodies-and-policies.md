@@ -15,3 +15,8 @@
  * [[CILIP]]|http://www.cilip.org.uk/]] - Chartered Institute of Library and Information Professionals
  * [[Open Knowledge Foundation|okfn.org]]
  * [[N8|http://www.n8research.org.uk/]]: eight most research-intensive unis in the North of England (Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield and York)
+ * The Consortium for Advancing Standards in Reserach Administration, 
+   [[CASRAI|http://casrai.org/]], have proposed open schemas for describing 
+   both research activity profiles and research personnel.
+ * The National Information Standards Organisation, [[NISO|http://www.niso.org/]].
+ * DataCite - see [[Citing data]]

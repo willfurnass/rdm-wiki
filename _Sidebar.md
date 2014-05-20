@@ -2,11 +2,12 @@ Contents
 [[_TOC_]]
 
  * [[Bodies and policies]]
+ * [[Citing data]]
  * [[DCC]]
  * [[EPSRC]]
  * [[Events]]
  * [[Licenses]]
- * [[Literate-programming]]
+ * [[Literate programming]]
  * [[Merits and issues]]
  * [[News]]
  * [[RDM at the UoS]]
