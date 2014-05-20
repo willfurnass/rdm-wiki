@@ -12,8 +12,8 @@
  * [[Digital Curation Centre|http://www.dcc.ac.uk/]], a Jisc-funded body for...
  * [[EDINA|http://edina.ac.uk/]], [[Mimas|http://mimas.ac.uk]] and the [[UK Data Archive|http://www.data-archive.ac.uk]] are data centres that provide data applications to higher education in the UK.  EDINA serves geospatial data, multimedia, bibliographic data, eBooks and repositories.
  * [[CODATA|http://www.codata.org]] - the committee on data for science and technology
- * [[CILIP]]|http://www.cilip.org.uk/]] - Chartered Institute of Library and Information Professionals
- * [[Open Knowledge Foundation|okfn.org]]
+ * [[CILIP|http://www.cilip.org.uk/]] - Chartered Institute of Library and Information Professionals
+ * [[Open Knowledge Foundation|http://okfn.org]]
  * [[N8|http://www.n8research.org.uk/]]: eight most research-intensive unis in the North of England (Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield and York)
  * The Consortium for Advancing Standards in Reserach Administration, 
    [[CASRAI|http://casrai.org/]], have proposed open schemas for describing 
