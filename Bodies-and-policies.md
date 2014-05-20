@@ -15,8 +15,11 @@
  * [[CILIP|http://www.cilip.org.uk/]] - Chartered Institute of Library and Information Professionals
  * [[Open Knowledge Foundation|http://okfn.org]]
  * [[N8|http://www.n8research.org.uk/]]: eight most research-intensive unis in the North of England (Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield and York)
+<<<<<<< HEAD
  * The Consortium for Advancing Standards in Reserach Administration, 
    [[CASRAI|http://casrai.org/]], have proposed open schemas for describing 
    both research activity profiles and research personnel.
  * The National Information Standards Organisation, [[NISO|http://www.niso.org/]].
  * DataCite - see [[Citing data]]
+ * [[Digital Preservation Commission|http://www.dpconline.org/]] - an international coalition designed to address goals of preserving digital materials comprising the cultural heritage of the United Kingdom and Ireland.  It is a not-for-profit membership organisation which supports its members through advocacy, knowledge exchange, workforce development, assurance and partnership and its vision is to make ‘our digital memory available tomorrow’. 
+ * [[Open Planets Foundation|http://www.openplanetsfoundation.org/]] - an international membership organisation which addresses core digital preservation challenges by engaging with its members and the community to develop practical and sustainable tools and services to ensure long-term access to digital content. 
