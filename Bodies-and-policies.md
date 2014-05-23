@@ -23,3 +23,4 @@
  * DataCite - see [[Citing data]]
  * [[Digital Preservation Commission|http://www.dpconline.org/]] - an international coalition designed to address goals of preserving digital materials comprising the cultural heritage of the United Kingdom and Ireland.  It is a not-for-profit membership organisation which supports its members through advocacy, knowledge exchange, workforce development, assurance and partnership and its vision is to make ‘our digital memory available tomorrow’. 
  * [[Open Planets Foundation|http://www.openplanetsfoundation.org/]] - an international membership organisation which addresses core digital preservation challenges by engaging with its members and the community to develop practical and sustainable tools and services to ensure long-term access to digital content. 
+ * [[Software Carpentry]] - INFO NEEDED

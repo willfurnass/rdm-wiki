@@ -6,6 +6,7 @@ Contents
  * [[DCC]]
  * [[EPSRC]]
  * [[Events]]
+ * [[figshare]]
  * [[Licenses]]
  * [[Literate programming]]
  * [[Merits and issues]]
