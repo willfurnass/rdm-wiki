@@ -44,5 +44,8 @@
     * MIT for code - can request (L)GPL?
  * Overlap with other services such as ResearchGate, ePrints/Symplectic Elements
  * How do figshare make money?  PloS pay for visualisations and data.  figshare for Insitutions.  Supported by Digital Science.  [[Personal plans|http://figshare.com/pricing]]
+ * API use cases w.r.t. integration w/ workflows?
+ * Metaanalysis use cases?
+ * rsync?
 
 SOFTWARE CARPENTRY? - COMMUNITY BUILDING, TECH PROTOTYPING, EDUCATIONAL PROGRAMMES AND DIGITAL LITERACY
