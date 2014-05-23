@@ -2,10 +2,10 @@
 
 Q: how far off are estimates of storage if use proper version control?
 
-Mark Z? - storage and archive
+Matt Zawadzki - storage and archive
 ? - CiCS infrastructure
-Laurian - RDM head  at UoS
-? - UoS library 
+Laurian Williamson - RDM head at UoS
+John Lewis - UoS library 
 Terry Bucknall - Digital Science sales
 Mark Hahnel - runs figshare
 
