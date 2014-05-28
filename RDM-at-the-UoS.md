@@ -5,6 +5,7 @@
  * Steering group now in place, consisting of people from the library, CiCS and R&IS
  * Other interesting people: 
    * Dr Andrew Cox (iSchool) - met with on 2014-03-31.  More interested in data management than open data.
+   *  Faculty of Engineering Research & Innovation Hub: [[George Rees|https://www.sheffield.ac.uk/faculty/engineering/staff/whos-who#Research]], Business Development Director.
 
 Projects
  * Archivum: data archiving system currently being investigated.  Currently being piloted using microscopy data.
