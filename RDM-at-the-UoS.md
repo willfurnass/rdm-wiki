@@ -1,5 +1,8 @@
 # RDM at the UoS #
 
+## General info ##
+ * [[Library info on RDM|http://www.sheffield.ac.uk/library/rdm/index]]
+
 ## People ##
  * Overseen by Laurian Williamson in the Library.  Been in position for six months.  Knows Jez Cope.  Met with Laurian on 2014-04-17
  * Steering group now in place, consisting of people from the library, CiCS and R&IS
