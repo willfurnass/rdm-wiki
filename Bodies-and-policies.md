@@ -1,7 +1,7 @@
 # Bodies and policies #
 
  * RCUK [[Common Principles on Data Policy|http://www.rcuk.ac.uk/research/Pages/DataPolicy.aspx]]. 
-    RCUK represents the UK's seven research councils.
+    RCUK represents the UK's seven research councils.  An [[overview of funders' policies|http://www.dcc.ac.uk/resources/policy-and-legal/funders-data-policies]] can be found on the DCC's website.
  * EPSRC [[Policy Framework on Research Data|http://www.epsrc.ac.uk/about/standards/researchdata/Pages/policyframework.aspx]] and
    [Expectations](http://www.epsrc.ac.uk/about/standards/researchdata/Pages/expectations.aspx)
  * [[Jisc|http://www.jisc.ac.uk]] (*formerly Joint Information Systems Committee*) provides guidance in post-16 education w.r.t. ICT.  Interests include e-learning, e-research and e-resources.  [[Manageing Research Data Programme 2011-2013|http://www.jisc.ac.uk/whatwedo/programmes/di_researchmanagement/managingresearchdata.aspx]]
@@ -24,3 +24,4 @@
  * [[Digital Preservation Commission|http://www.dpconline.org/]] - an international coalition designed to address goals of preserving digital materials comprising the cultural heritage of the United Kingdom and Ireland.  It is a not-for-profit membership organisation which supports its members through advocacy, knowledge exchange, workforce development, assurance and partnership and its vision is to make ‘our digital memory available tomorrow’. 
  * [[Open Planets Foundation|http://www.openplanetsfoundation.org/]] - an international membership organisation which addresses core digital preservation challenges by engaging with its members and the community to develop practical and sustainable tools and services to ensure long-term access to digital content. 
  * [[Software Carpentry]] - INFO NEEDED
+ * [[Software Sustainability Institute|http://www.software.ac.uk/]]: doing a lot of work around reproducible research.
