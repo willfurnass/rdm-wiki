@@ -14,6 +14,7 @@
  * Many other subject-specific archives: GenBank (gene sequence data), TreeBASE (phylogenetic trees), EMBL Nucleotide Sequence Database, Protein Data Bank, Gene Expression Omnibus
  * [[PURR|https://purr.purdue.edu/]] from Purdue Uni in the US (recommended by [[RDM-at-the-UoS|Laurian Williamson]]
  * [[data.bris|http://data.bris.ac.uk/data/]] at the University of Bristol, powered by [[CKAN|http://ckan.org/]].
+ * [[Open Research Exeter|https://ore.exeter.ac.uk/repository/]] - holds data, theses, pre-prints etc
 
 ## RDM repository technologies ##
 
