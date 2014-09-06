@@ -1,6 +1,6 @@
 # RDMRose #
 
-[[Jisc|http://jisc.ac.uk]] funded [[project|http://www.sheffield.ac.uk/is/research/projects/rdmrose]] to produce taught and continuing professional development (CPD) learning materials in Research Data Management (RDM) tailored for liaison librarians in university libraries.  
+[[Jisc|http://jisc.ac.uk]] funded project ([[research site|http://www.sheffield.ac.uk/is/research/projects/rdmrose]] and [[blog|http://rdmrose.blogspot.co.uk/]]) to produce taught and continuing professional development (CPD) learning materials in Research Data Management (RDM) tailored for liaison librarians in university libraries.  
 July 2012 - July 2013
 White Rose libraries and UoS iSchool
 
