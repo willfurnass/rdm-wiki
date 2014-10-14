@@ -22,6 +22,7 @@
  * [[CKAN|ckan.org]]: open source repo software.  Used at Lincoln and Bristol.
  * DSpace
  * [[Symplectic Elements|http://www.symplectic.co.uk]]: brings in paper metadata from external data sources such as Scopus and internal sources e.g. ePrints.  Used at the UoS
+ * [[pyrdm|https://github.com/pyrdm/pyrdm]] is a Python-based library for research data management (RDM). It facilitates the automated publication of scientific software and associated input and output data.
 
 ## Other open data repositories ##
 
